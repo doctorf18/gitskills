@@ -1,6 +1,5 @@
 # About gitskills
 
----
 
 ## Hello, I am learning the git from the website of teather Liao.
 
@@ -8,7 +7,12 @@ This is his website: [Git course of teacher Liao](https://www.liaoxuefeng.com/wi
 
 Thanks for him very much.
 
----
 
-### And now I know a lot about git,and i can do a lot too.
+### Now I know a lot about git,and i can do a lot too.
 
+And this repository is just my practice.
+
+I am just a rookie.
+
+If you also want to learn git,
+you can see the above page and look my notes in this repo: [my_note of git.pdf](https://github.com/doctorf18/gitskills/blob/master/my_note_of_git.pdf)
