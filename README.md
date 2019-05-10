@@ -5,7 +5,7 @@
 
 This is his website: [Git course of teacher Liao](https://www.liaoxuefeng.com/wiki/896043488029600)
 
-Thanks for him very much.
+Thanks for him so much.
 
 
 ### Now I know a lot about git,and i can do a lot too.
