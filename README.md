@@ -6,3 +6,4 @@ and i can do a lot too
 123
 now test the stash
 123
+add
