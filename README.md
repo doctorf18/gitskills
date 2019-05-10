@@ -15,4 +15,5 @@ And this repository is just my practice.
 I am just a rookie.
 
 If you also want to learn git,
+
 you can see the above page and look my notes in this repo: [my_note of git.pdf](https://github.com/doctorf18/gitskills/blob/master/my_note_of_git.pdf)
